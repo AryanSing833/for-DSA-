@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/AryanSing833/for-DSA-/tree/master/0031-next-permutation) |
+| [0485-max-consecutive-ones](https://github.com/AryanSing833/for-DSA-/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanSing833/for-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AryanSing833/for-DSA-/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-find-the-highest-altitude](https://github.com/AryanSing833/for-DSA-/tree/master/1732-find-the-highest-altitude) |
