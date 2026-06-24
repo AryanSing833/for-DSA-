@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AryanSing833/for-DSA-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AryanSing833/for-DSA-/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanSing833/for-DSA-/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/AryanSing833/for-DSA-/tree/master/0704-binary-search) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AryanSing833/for-DSA-/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-find-the-highest-altitude](https://github.com/AryanSing833/for-DSA-/tree/master/1732-find-the-highest-altitude) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/AryanSing833/for-DSA-/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanSing833/for-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/AryanSing833/for-DSA-/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
