@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AryanSing833/for-DSA-/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/AryanSing833/for-DSA-/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanSing833/for-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AryanSing833/for-DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
@@ -67,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AryanSing833/for-DSA-/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/AryanSing833/for-DSA-/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AryanSing833/for-DSA-/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/AryanSing833/for-DSA-/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
