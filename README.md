@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AryanSing833/for-DSA-/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-find-the-highest-altitude](https://github.com/AryanSing833/for-DSA-/tree/master/1732-find-the-highest-altitude) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/AryanSing833/for-DSA-/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AryanSing833/for-DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AryanSing833/for-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/AryanSing833/for-DSA-/tree/master/1732-find-the-highest-altitude) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/AryanSing833/for-DSA-/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AryanSing833/for-DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/AryanSing833/for-DSA-/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanSing833/for-DSA-/tree/master/0560-subarray-sum-equals-k) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AryanSing833/for-DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AryanSing833/for-DSA-/tree/master/0053-maximum-subarray) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AryanSing833/for-DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -71,4 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AryanSing833/for-DSA-/tree/master/0229-majority-element-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AryanSing833/for-DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AryanSing833/for-DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AryanSing833/for-DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
