@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/AryanSing833/for-DSA-/tree/master/0704-binary-search) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AryanSing833/for-DSA-/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-find-the-highest-altitude](https://github.com/AryanSing833/for-DSA-/tree/master/1732-find-the-highest-altitude) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AryanSing833/for-DSA-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/AryanSing833/for-DSA-/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AryanSing833/for-DSA-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AryanSing833/for-DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AryanSing833/for-DSA-/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/AryanSing833/for-DSA-/tree/master/0242-valid-anagram) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AryanSing833/for-DSA-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
 |  |
 | ------- |
