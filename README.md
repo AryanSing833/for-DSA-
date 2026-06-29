@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/AryanSing833/for-DSA-/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/AryanSing833/for-DSA-/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanSing833/for-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/AryanSing833/for-DSA-/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/AryanSing833/for-DSA-/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/AryanSing833/for-DSA-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AryanSing833/for-DSA-/tree/master/0485-max-consecutive-ones) |
@@ -94,5 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AryanSing833/for-DSA-/tree/master/0204-count-primes) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AryanSing833/for-DSA-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AryanSing833/for-DSA-/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AryanSing833/for-DSA-/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
