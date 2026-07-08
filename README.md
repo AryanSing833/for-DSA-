@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/AryanSing833/for-DSA-/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanSing833/for-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/AryanSing833/for-DSA-/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/AryanSing833/for-DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AryanSing833/for-DSA-/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-find-the-highest-altitude](https://github.com/AryanSing833/for-DSA-/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AryanSing833/for-DSA-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AryanSing833/for-DSA-/tree/master/0053-maximum-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/AryanSing833/for-DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AryanSing833/for-DSA-/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Stack
 |  |
