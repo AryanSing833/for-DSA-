@@ -1,6 +1,14 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+🚀 LeetCode Solutions
+
+Welcome to my LeetCode solutions repository! This repository contains my accepted solutions to LeetCode problems, organized by topic using LeetHub v2.
+
+📌 About
+💻 Language(s): C++ (and more in the future)
+📚 Goal: Strengthen Data Structures & Algorithms skills
+🎯 Purpose: Coding interview preparation and consistent problem-solving practice
+🔄 Automatically maintained using LeetHub v2
 ## Array
 |  |
 | ------- |
