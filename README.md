@@ -1,14 +1,6 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
-🚀 LeetCode Solutions
-
-Welcome to my LeetCode solutions repository! This repository contains my accepted solutions to LeetCode problems, organized by topic using LeetHub v2.
-
-📌 About
-💻 Language(s): C++ (and more in the future)
-📚 Goal: Strengthen Data Structures & Algorithms skills
-🎯 Purpose: Coding interview preparation and consistent problem-solving practice
-🔄 Automatically maintained using LeetHub v2
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
@@ -119,6 +111,7 @@ Welcome to my LeetCode solutions repository! This repository contains my accepte
 | [0204-count-primes](https://github.com/AryanSing833/for-DSA-/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AryanSing833/for-DSA-/tree/master/0231-power-of-two) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/AryanSing833/for-DSA-/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AryanSing833/for-DSA-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Number Theory
 |  |
 | ------- |
