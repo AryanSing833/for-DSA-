@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AryanSing833/for-DSA-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AryanSing833/for-DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/AryanSing833/for-DSA-/tree/master/0485-max-consecutive-ones) |
+| [0518-coin-change-ii](https://github.com/AryanSing833/for-DSA-/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanSing833/for-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/AryanSing833/for-DSA-/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/AryanSing833/for-DSA-/tree/master/0746-min-cost-climbing-stairs) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/AryanSing833/for-DSA-/tree/master/0062-unique-paths) |
 | [0322-coin-change](https://github.com/AryanSing833/for-DSA-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AryanSing833/for-DSA-/tree/master/0416-partition-equal-subset-sum) |
+| [0518-coin-change-ii](https://github.com/AryanSing833/for-DSA-/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/AryanSing833/for-DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AryanSing833/for-DSA-/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Stack
