@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/AryanSing833/for-DSA-/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/AryanSing833/for-DSA-/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/AryanSing833/for-DSA-/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/AryanSing833/for-DSA-/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanSing833/for-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AryanSing833/for-DSA-/tree/master/0036-valid-sudoku) |
 | [0229-majority-element-ii](https://github.com/AryanSing833/for-DSA-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AryanSing833/for-DSA-/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanSing833/for-DSA-/tree/master/0560-subarray-sum-equals-k) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/AryanSing833/for-DSA-/tree/master/0040-combination-sum-ii) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/AryanSing833/for-DSA-/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
