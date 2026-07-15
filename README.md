@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/AryanSing833/for-DSA-/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/AryanSing833/for-DSA-/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/AryanSing833/for-DSA-/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/AryanSing833/for-DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AryanSing833/for-DSA-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AryanSing833/for-DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/AryanSing833/for-DSA-/tree/master/0485-max-consecutive-ones) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AryanSing833/for-DSA-/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/AryanSing833/for-DSA-/tree/master/0062-unique-paths) |
+| [0300-longest-increasing-subsequence](https://github.com/AryanSing833/for-DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AryanSing833/for-DSA-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AryanSing833/for-DSA-/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/AryanSing833/for-DSA-/tree/master/0518-coin-change-ii) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanSing833/for-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/AryanSing833/for-DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/AryanSing833/for-DSA-/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
