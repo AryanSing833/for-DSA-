@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AryanSing833/for-DSA-/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/AryanSing833/for-DSA-/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/AryanSing833/for-DSA-/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/AryanSing833/for-DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AryanSing833/for-DSA-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AryanSing833/for-DSA-/tree/master/0416-partition-equal-subset-sum) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AryanSing833/for-DSA-/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/AryanSing833/for-DSA-/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/AryanSing833/for-DSA-/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AryanSing833/for-DSA-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AryanSing833/for-DSA-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
