@@ -8,7 +8,7 @@ public:
 
         for (int x : nums) {
             m = max(m, x);
-            pre.push_back(gcd(x, x));
+            pre.push_back(gcd(x, m));
         }
 
         sort(pre.begin(), pre.end());
