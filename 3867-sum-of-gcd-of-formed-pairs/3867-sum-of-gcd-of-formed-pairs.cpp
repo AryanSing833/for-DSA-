@@ -4,11 +4,11 @@ public:
         
          int n = nums.size();
         vector<int> pre;
-        int mx = 0;
+        int m = 0;
 
         for (int x : nums) {
-            mx = max(mx, x);
-            pre.push_back(gcd(x, mx));
+            m = max(m, x);
+            pre.push_back(gcd(x, x));
         }
 
         sort(pre.begin(), pre.end());
