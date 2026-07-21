@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AryanSing833/for-DSA-/tree/master/0036-valid-sudoku) |
+| [0076-minimum-window-substring](https://github.com/AryanSing833/for-DSA-/tree/master/0076-minimum-window-substring) |
 | [0229-majority-element-ii](https://github.com/AryanSing833/for-DSA-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AryanSing833/for-DSA-/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanSing833/for-DSA-/tree/master/0560-subarray-sum-equals-k) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AryanSing833/for-DSA-/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/AryanSing833/for-DSA-/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/AryanSing833/for-DSA-/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/AryanSing833/for-DSA-/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AryanSing833/for-DSA-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AryanSing833/for-DSA-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/AryanSing833/for-DSA-/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AryanSing833/for-DSA-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Breadth-First Search
 |  |
