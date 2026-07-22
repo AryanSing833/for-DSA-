@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanSing833/for-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/AryanSing833/for-DSA-/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/AryanSing833/for-DSA-/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/AryanSing833/for-DSA-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AryanSing833/for-DSA-/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/AryanSing833/for-DSA-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AryanSing833/for-DSA-/tree/master/0322-coin-change) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/AryanSing833/for-DSA-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanSing833/for-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/AryanSing833/for-DSA-/tree/master/1732-find-the-highest-altitude) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/AryanSing833/for-DSA-/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
