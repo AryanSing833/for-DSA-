@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/AryanSing833/for-DSA-/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/AryanSing833/for-DSA-/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AryanSing833/for-DSA-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/AryanSing833/for-DSA-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AryanSing833/for-DSA-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AryanSing833/for-DSA-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AryanSing833/for-DSA-/tree/master/0231-power-of-two) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AryanSing833/for-DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/AryanSing833/for-DSA-/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/AryanSing833/for-DSA-/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AryanSing833/for-DSA-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AryanSing833/for-DSA-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AryanSing833/for-DSA-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AryanSing833/for-DSA-/tree/master/0231-power-of-two) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/AryanSing833/for-DSA-/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Recursion
 |  |
 | ------- |
