@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/AryanSing833/for-DSA-/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/AryanSing833/for-DSA-/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/AryanSing833/for-DSA-/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/AryanSing833/for-DSA-/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AryanSing833/for-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/AryanSing833/for-DSA-/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/AryanSing833/for-DSA-/tree/master/0229-majority-element-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AryanSing833/for-DSA-/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/AryanSing833/for-DSA-/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/AryanSing833/for-DSA-/tree/master/0231-power-of-two) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AryanSing833/for-DSA-/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Recursion
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/AryanSing833/for-DSA-/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/AryanSing833/for-DSA-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AryanSing833/for-DSA-/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/AryanSing833/for-DSA-/tree/master/0090-subsets-ii) |
 ## Matrix
 |  |
 | ------- |
